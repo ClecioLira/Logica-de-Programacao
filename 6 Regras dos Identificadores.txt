@@ -1,0 +1,8 @@
+6 Regras dos Identificadores
+
+1. Deve começar com uma letra
+2. Os proximos podem ser letras ou numeros
+3. Não pode utilizar nenhum simbolo, exceto _
+4. Não pode conter espaços em branco
+5. Não pode conter letras com acentos
+6. Não pode ser uma palavra reservada
